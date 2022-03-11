@@ -1,0 +1,70 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "url": "",
+      "adherent": 166,
+      "message": "Vous etes suspendu parceque vous n'avez pas payer la cotisation 3 fois! Veuillez contactez la responsable SVP!",
+      "designation": "Suspendu",
+      "isRead": false,
+      "groups": "",
+      "users": "",
+      "createdAt": "10/03/2022 à 19h:00min"
+    },
+    {
+      "id": 2,
+      "url": "",
+      "adherent": 169,
+      "message": "Vous etes majoree parceque vous n'avez pas payer la cotisation 1 fois! Veuillez reglez votre cotisation SVP!",
+      "designation": "Majoration",
+      "isRead": false,
+      "groups": "",
+      "users": "",
+      "createdAt": "10/03/2022 à 14h:15min"
+    },
+    {
+      "id": 3,
+      "url": "",
+      "adherent": 173,
+      "message": "Vous etes suspendu parceque vous n'avez pas payer la cotisation 3 fois! Veuillez contactez la responsable SVP!",
+      "designation": "Suspendu",
+      "isRead": true,
+      "groups": "",
+      "users": "",
+      "createdAt": "11/03/2022 à 07h:30min"
+    },
+    {
+      "id": 4,
+      "url": "",
+      "adherent": 168,
+      "message": "Vous etes majoree parceque vous n'avez pas payer la cotisation 1 fois! Veuillez reglez votre cotisation SVP!",
+      "designation": "Majoration",
+      "isRead": false,
+      "groups": "",
+      "users": "",
+      "createdAt": "11/03/2022 à 09h:30min"
+    },
+    {
+      "id": 5,
+      "url": "",
+      "adherent": 168,
+      "message": "Vous etes majoree parceque vous n'avez pas payer la cotisation 1 fois! Veuillez reglez votre cotisation SVP!",
+      "designation": "Suspendu",
+      "isRead": true,
+      "groups": "",
+      "users": "",
+      "createdAt": "11/03/2022 à 9h:30min"
+    },
+    {
+      "id": 6,
+      "url": "",
+      "adherent": 168,
+      "message": "Vous etes radié parceque vous n'avez pas payer la cotisation 1 fois! Veuillez reglez votre cotisation SVP!",
+      "designation": "Radié",
+      "isRead": true,
+      "groups": "",
+      "users": "",
+      "createdAt": "11/03/2022 à 9h:30min"
+    }
+  ]
+}
