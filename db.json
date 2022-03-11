@@ -65,6 +65,17 @@
       "groups": "",
       "users": "",
       "createdAt": "11/03/2022 à 9h:30min"
+    },
+    {
+      "id": 7,
+      "url": "",
+      "adherent": 168,
+      "message": "Vous etes radié parceque vous n'avez pas payer la cotisation 1 fois! Veuillez reglez votre cotisation SVP!",
+      "designation": "Radié",
+      "isRead": true,
+      "groups": "",
+      "users": "",
+      "createdAt": "09/03/2022 à 9h:30min"
     }
   ]
 }
